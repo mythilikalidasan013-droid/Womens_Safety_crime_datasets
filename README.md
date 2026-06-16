@@ -1,4 +1,4 @@
-# Tamil Nadu Women's Crime Analysis & Prediction
+# Women Safety Crime Analytics Project 
 
 ## Overview
 This project analyzes crimes against women across various districts of Tamil Nadu and predicts future crime counts using Machine Learning. The goal is to identify high-risk districts, understand crime patterns, and support preventive safety measures.
