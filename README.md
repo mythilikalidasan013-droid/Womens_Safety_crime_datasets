@@ -127,7 +127,7 @@ The trained Random Forest model predicts future crime counts using historical cr
 #### Prediction Output
 - Predicted Crime Count: 18.81
 - Safety Level: High Danger
-- 
+
 <img width="1277" height="747" alt="Screenshot 2026-06-16 210355" src="https://github.com/user-attachments/assets/18731893-c67f-481c-9200-00ef9919fd5a" />
 
 
